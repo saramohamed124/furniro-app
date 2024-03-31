@@ -1,7 +1,8 @@
-[
+import imgone from './imgs/imgone.png'
+const products =[
     {
         "id": 1,
-        "src": "",
+        "src": {imgone},
         "title": "Syltherine",
         "category": "Stylish cafe chair"
     },
@@ -54,3 +55,4 @@
         "category": "Night lamp"
     }
 ]
+export default products
