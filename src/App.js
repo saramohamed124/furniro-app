@@ -15,7 +15,8 @@ export default function App() {
       <RecoilRoot>
       <Navbar />
         <Routes>
-        <Route exact path="/" element={<Home />} />
+        <Route  path="/furniro-app/" element={<Home />} />
+        <Route  path="/" element={<Home />} />
         <Route path="shop" element={<Shop />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
