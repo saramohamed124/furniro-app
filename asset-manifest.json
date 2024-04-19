@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/furniro-app/static/css/main.9ba4a1ec.css",
-    "main.js": "/furniro-app/static/js/main.4b7ff294.js",
+    "main.css": "/furniro-app/static/css/main.7b56439e.css",
+    "main.js": "/furniro-app/static/js/main.e6f676e0.js",
     "static/js/453.b729040e.chunk.js": "/furniro-app/static/js/453.b729040e.chunk.js",
     "static/media/header-sec1.png": "/furniro-app/static/media/header-sec1.d2ee9a252c6bcedba5b6.png",
     "static/media/bedroom-img.png": "/furniro-app/static/media/bedroom-img.d353c36c60a8ac24e57d.png",
     "static/media/living-img.png": "/furniro-app/static/media/living-img.e8ab87ff349469c93622.png",
     "static/media/dining-img.png": "/furniro-app/static/media/dining-img.40c61d96b71a52b508e9.png",
-    "static/media/imgone.png": "/furniro-app/static/media/imgone.3470388b6754d9d6bf7e.png",
+    "static/media/pingky.png": "/furniro-app/static/media/pingky.6f85070b84c5e0b81133.png",
+    "static/media/respira.png": "/furniro-app/static/media/respira.844d4e1efef6aae6846a.png",
+    "static/media/potty.png": "/furniro-app/static/media/potty.53074c551538f514a0e4.png",
+    "static/media/muggo.png": "/furniro-app/static/media/muggo.cad25bf74bca3c267f78.png",
+    "static/media/leviosa.png": "/furniro-app/static/media/leviosa.7b50f49793c284f013a5.png",
+    "static/media/lolito.png": "/furniro-app/static/media/lolito.d93f1155c8110b7ed0c7.png",
+    "static/media/syltherine.png": "/furniro-app/static/media/syltherine.3470388b6754d9d6bf7e.png",
+    "static/media/gifo.png": "/furniro-app/static/media/gifo.83fc071d1809f5d01e27.png",
     "static/media/logo.svg": "/furniro-app/static/media/logo.d20bdd3d67f099b29836985df68eb793.svg",
     "static/media/cart_icon.svg": "/furniro-app/static/media/cart_icon.0fa07f74a0e788dacae15e5e009da0b0.svg",
     "static/media/user_icon.svg": "/furniro-app/static/media/user_icon.fefdaf2f9d31746d8ab1cd27dd8b3c20.svg",
     "index.html": "/furniro-app/index.html",
     "static/media/search_icon.svg": "/furniro-app/static/media/search_icon.aae1bc20be23a94f4d904b53911ec8f6.svg",
     "static/media/heart_icon.svg": "/furniro-app/static/media/heart_icon.b59b7c7e082223104ece71eecb78664d.svg",
-    "main.9ba4a1ec.css.map": "/furniro-app/static/css/main.9ba4a1ec.css.map",
-    "main.4b7ff294.js.map": "/furniro-app/static/js/main.4b7ff294.js.map",
+    "main.7b56439e.css.map": "/furniro-app/static/css/main.7b56439e.css.map",
+    "main.e6f676e0.js.map": "/furniro-app/static/js/main.e6f676e0.js.map",
     "453.b729040e.chunk.js.map": "/furniro-app/static/js/453.b729040e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba4a1ec.css",
-    "static/js/main.4b7ff294.js"
+    "static/css/main.7b56439e.css",
+    "static/js/main.e6f676e0.js"
   ]
 }
