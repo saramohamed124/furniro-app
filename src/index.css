@@ -15,6 +15,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/* Container Style */
+.container {
+  @apply mx-auto my-10 text-center;
+}
+
+/* heading One Style */
+.heading-one {
+  @apply font-extrabold text-3xl py-6;
+}
+
+/* Card Center Style */
 .card-center {
   @apply right-[50%] translate-x-[55%] w-4/5 text-[10px] text-center;
+}
+
+/* Products Style */
+.products {
+  @apply flex flex-row flex-wrap  justify-center  items-center gap-x-8 gap-y-8;
+}
+
+/* Show More Button Style */
+.show-more {
+  @apply text-[#B88E2F] text-sm font-semibold border-[1px] border-[#B88E2F] py-2 px-12 my-3 mx-auto;
 }

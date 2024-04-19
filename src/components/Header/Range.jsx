@@ -9,9 +9,9 @@ function Range() {
     { img: bedroom_img, title: "Bedroom" },
   ];
   return (
-    <>
+    <div className="container ">
       <Headtitle />
-      <div className="flex md:flex-row flex-col sm:justify-around justify-center items-center gap-2 mx-14 my-10">
+      <div className="flex md:flex-row flex-col sm:justify-around justify-center items-center flex-wrap  my-10">
         {category.map((e) => {
           return (
             <div className="text-center">
@@ -25,7 +25,7 @@ function Range() {
           );
         })}
       </div>
-    </>
+    </div>
   );
 }
 export default Range;

@@ -34,32 +34,32 @@ function Navbar() {
             className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 "
           >
             <li>
-              <Link className=" font-semibold text-black" to="/furniro-app">
+              <Link className=" font-semibold text-black" to="/">
                 Home
               </Link>
             </li>
             <li>
-              <Link className=" font-semibold text-black" to="/furniro-app/shop">
+              <Link className=" font-semibold text-black" to="/shop">
                 Shop
               </Link>
             </li>
             <li>
-              <Link className=" font-semibold text-black" to="/furniro-app/about">
+              <Link className=" font-semibold text-black" to="/about">
                 About
               </Link>
             </li>
             <li>
-              <Link className=" font-semibold text-black" to="/furniro-app/contact">
+              <Link className=" font-semibold text-black" to="/contact">
                 Contact
               </Link>
             </li>
           </ul>
         </div>
-        <Link to="/furniro-app" className="btn btn-ghost text-xl p-0 ms-3 text-center">
+        <Link to="/" className="btn btn-ghost text-xl p-0 ms-3 text-center">
           <img className=" md:w-auto w-11" src={logo_img} alt="logo" />
         </Link>
         <Link
-          to="/furniro-app"
+          to="/"
           className="btn btn-ghost md:text-2xl text-xl p-1 py-1 text-center font-bold text-black "
         >
           Furniro
@@ -68,22 +68,22 @@ function Navbar() {
       <div className="navbar-center hidden lg:flex justify-between gap-3">
         <ul className="menu menu-horizontal px-1 flex justify-between gap-5">
           <li>
-            <Link className=" font-semibold text-black" to="/furniro-app">
+            <Link className=" font-semibold text-black" to="/">
               Home
             </Link>
           </li>
           <li>
-            <Link className=" font-semibold text-black" to="/furniro-app/shop">
+            <Link className=" font-semibold text-black" to="/shop">
               Shop
             </Link>
           </li>
           <li>
-            <Link className=" font-semibold text-black" to="/furniro-app/about">
+            <Link className=" font-semibold text-black" to="/about">
               About
             </Link>
           </li>
           <li>
-            <Link className=" font-semibold text-black" to="/furniro-app/contact">
+            <Link className=" font-semibold text-black" to="/contact">
               Contact
             </Link>
           </li>
@@ -92,22 +92,22 @@ function Navbar() {
       <div className="navbar-end">
         <ul className="menu menu-horizontal px-1 flex justify-between items-center lg:gap-3 md:pe-5">
           <li>
-            <Link className="sm:p-2 p-1" to="/furniro-app">
+            <Link className="sm:p-2 p-1" to="/">
               <img src={user_icon} alt="user" />
             </Link>
           </li>
           <li>
-            <Link className="sm:p-2 p-1" to="/furniro-app">
+            <Link className="sm:p-2 p-1" to="/">
               <img src={search_icon} alt="search" />
             </Link>
           </li>
           <li>
-            <Link className="sm:p-2 p-1" to="/furniro-app">
+            <Link className="sm:p-2 p-1" to="/">
               <img src={heart_icon} alt="heart" />
             </Link>
           </li>
           <li>
-            <Link className="sm:p-2 p-1" to="/furniro-app">
+            <Link className="sm:p-2 p-1" to="/">
               <img src={cart_icon} alt="cart" />
             </Link>
           </li>
